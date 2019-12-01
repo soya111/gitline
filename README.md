@@ -2,7 +2,7 @@
 
 ↓
 
-## 分岐しました（new-line）
+## 2nd station(master)
 
 ↓
 
