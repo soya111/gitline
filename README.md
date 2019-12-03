@@ -6,8 +6,8 @@
 
 ↓
 
-## 2nd station(new-line)
+## new-lineから分岐したanother-lineの1st station
 
 ↓
 
-## 3nd station(new-line)
+## 2nd station(another-line)
